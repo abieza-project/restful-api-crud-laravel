@@ -10,3 +10,11 @@
 
 Simple crud exemple of RESTful API back-end application using Laravel.
 Version used for this project is 8.6.
+
+## Repo Author
+
+abieza-project
+
+## License
+
+This project is open-sourced software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0).
